@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{18C5E3AB-E40D-4A81-B383-791069367A9A}|modul8_1302220128\\modul8_1302220128.csproj|c:\\users\\mrizk\\documents\\rizki\\tugas\\semester 4\\kpl\\jurnal\\modul8_1302220128\\modul8_1302220128\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18C5E3AB-E40D-4A81-B383-791069367A9A}|modul8_1302220128\\modul8_1302220128.csproj|solutionrelative:modul8_1302220128\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrizk\\Documents\\Rizki\\Tugas\\Semester 4\\KPL\\jurnal\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +27,22 @@
               "RelativeDocumentMoniker": "modul8_1302220128\\Program.cs",
               "ToolTip": "C:\\Users\\mrizk\\Documents\\Rizki\\Tugas\\Semester 4\\KPL\\jurnal\\modul8_1302220128\\modul8_1302220128\\Program.cs",
               "RelativeToolTip": "modul8_1302220128\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T00:43:16.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\mrizk\\Documents\\Rizki\\Tugas\\Semester 4\\KPL\\jurnal\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\mrizk\\Documents\\Rizki\\Tugas\\Semester 4\\KPL\\jurnal\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-20T01:07:18.236Z",
               "EditorCaption": ""
             }
           ]
